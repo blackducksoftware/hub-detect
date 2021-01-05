@@ -1,2 +1,2 @@
 ## Overview ##
-Project renamed, please see:  https://github.com/blackducksoftware/synopsys-detect
+Project renamed, ARCHIVED and End Of Lifed, please see:  https://github.com/blackducksoftware/synopsys-detect
